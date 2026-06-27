@@ -15,7 +15,7 @@ var CONFIG = {
   /**
    * Name of the response sheet within the spreadsheet.
    */
-  RESPONSE_SHEET_NAME: 'Frext Technologies Summer Internship Program 2k26',
+  RESPONSE_SHEET_NAME: 'Job Application / Career Inquiry - Frext Technologies (Responses)',
 
   /**
    * Google Slides Template ID for the LOR.
