@@ -10,12 +10,12 @@ var CONFIG = {
    * Google Sheet ID where form responses are stored.
    * Replace with your actual Sheet ID from the URL.
    */
-  SHEET_ID: 'YOUR_GOOGLE_SHEET_ID_HERE',
+  SHEET_ID: '1T8wpDDBEBotOf7F-5haMQ-6icSqbekEgdo-4Gkkp04w',
 
   /**
    * Name of the response sheet within the spreadsheet.
    */
-  RESPONSE_SHEET_NAME: 'Form Responses 1',
+  RESPONSE_SHEET_NAME: 'Frext Technologies Summer Internship Program 2k26',
 
   /**
    * Google Slides Template ID for the LOR.
